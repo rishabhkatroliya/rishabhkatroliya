@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects related to web development and real-time applications.**
 
-- 👨‍💻 All of my projects are available at [https://rishabhkatroliya.github.io/](https://rishabhkatroliya.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/rishabhkatroliya/](https://github.com/rishabhkatroliya/)
 
 - 💬 Ask me about **HTML, CSS, JAVA, JAVASCRIPT, React, Redux**
 
