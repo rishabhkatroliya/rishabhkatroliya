@@ -4,6 +4,12 @@
    
 <br/>
 
+<h4>
+<a href="" target="blank">My Portfolio</a></h5>
+<a href="" target="blank">My Resume</a></h4>
+<br/>
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
 
   <section>
