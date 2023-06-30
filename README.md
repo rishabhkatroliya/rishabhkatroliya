@@ -1,28 +1,8 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**rishabhkatroliya/rishabhkatroliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
-  <header>
     <h1 align="center">Hi 👋 I'm Rishabh Gupta</h1>
     <h2 align="center"> Passionate and detail-oriented full-stack developer with a focus on HTML, CSS, JavaScript, and React.</h2>
    
-  </header>
-    </header>
-    </br>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
 
