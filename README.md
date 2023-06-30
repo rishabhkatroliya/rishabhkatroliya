@@ -59,6 +59,8 @@
  <h2 align="left">Stats:</h2>
  
   <p>
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkatroliya&show_icons=true&locale=en" alt="rishabhkatroliya" /></p>
     
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkatroliya" alt="rishabhkatroliya" /></p>
  </p>
