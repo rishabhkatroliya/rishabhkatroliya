@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rishabhkatroliya/](https://github.com/rishabhkatroliya/)
 
-- 💬 Ask me about **HTML, CSS, JAVA, JAVASCRIPT, React, Redux**
+- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
 
 - 📫 How to reach me **rishabh.katroliya999@gmail.com**
 
@@ -42,6 +42,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </p>
         
   </section>
