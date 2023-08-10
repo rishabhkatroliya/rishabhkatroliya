@@ -1,13 +1,13 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
     <h1 align="center">Hi 👋 I'm Rishabh Gupta</h1>
-    <h2 align="center"> Passionate and detail-oriented full-stack developer with a focus on HTML, CSS, JavaScript, and React.</h2>
+    <h2 align="center"> Aspiring full-stack web developer passionate about building web applicationse with a focus on HTML, CSS, JavaScript, and React.</h2>
    
 <br/>
 
 <h4>
-<a href="https://rishabhkatroliya.github.io/" target="blank">My Portfolio</a></h5>
-<a href="" target="blank">My Resume</a></h4>
-<br/>
+<!-- <a href="https://rishabhkatroliya.github.io/" target="blank">My Portfolio</a></h5>
+Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.io)
+<br/> -->
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
@@ -22,10 +22,31 @@
 
 - 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
 
-- 📫 How to reach me **rishabh.katroliya999@gmail.com**
+<!-- - 📫 How to reach me **rishabh.katroliya999@gmail.com** -->
 
  </section>
 <br/>
+<section>
+
+<h2>🔭 Projects</h2>
+
+- [**Specialized cycle app**](https://github.com/ProActive44/specialized-bike-app): An online cycle store, where you can find all the types of modern bikes.
+
+- [**Swiggy Clone**](https://github.com/shaad72345/SwiggyClone): Clone of India's leading & most trusted food delivery app.
+
+- [**Hilling Travel Agency**](https://github.com/rishabhkatroliya/travel-agency): Travel agency app to explore new avenues. 
+
+</section>
+<br/>
+  <section>
+  
+ <h2>📫How to Reach Me</h2>
+
+- Email: rishabh.katroliya999@gmail.com
+- Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.io)
+- LinkedIn: [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-a0b5a888/)
+
+ </section>
 
 
   <section>
