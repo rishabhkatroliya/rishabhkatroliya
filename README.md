@@ -1,4 +1,19 @@
-<div align="center">
+<div>
+        <h2 > Hi 👋 I'm Rishabh Gupta </h2>
+        <img class="top_image"
+            style="margin: auto;
+            display: flex;
+            justify-content: center;
+            width: 300px;">
+        <h3 > Aspiring full-stack web developer passionate about building web applicationse with a focus on HTML, CSS, JavaScript, and React. </h3>
+        <div>
+        <div>
+                <h2>Portfolio</h2>
+                <a href="https://rishabhkatroliya.github.io">Portfolio</a>
+        </div>      
+<div>
+
+<!-- <div align="center">
     <h1 align="center">Hi 👋 I'm Rishabh Gupta</h1>
     <h2 align="center"> Aspiring full-stack web developer passionate about building web applicationse with a focus on HTML, CSS, JavaScript, and React.</h2>
       <div>
@@ -6,7 +21,7 @@
                 <a href="https://rishabhkatroliya.github.io">Portfolio</a>
         </div>    
    
-</div>
+</div> -->
 
 <h4>
 <!-- <a href="https://rishabhkatroliya.github.io/" target="blank">My Portfolio</a></h5>
@@ -14,7 +29,7 @@ Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.
 <br/> -->
 <br/>
 
-<p align="left"> <img class="top_image" src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
 
   <section>
   
@@ -25,6 +40,9 @@ Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.
 - 👨‍💻 All of my projects are available at [https://github.com/rishabhkatroliya/](https://github.com/rishabhkatroliya/)
 
 - 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
+
+- 💬 Portfolio -  <a href="https://rishabhkatroliya.github.io">Portfolio</a>
+   
 
 <!-- - 📫 How to reach me **rishabh.katroliya999@gmail.com** -->
 
