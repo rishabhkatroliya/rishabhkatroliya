@@ -9,7 +9,8 @@
         <div>
         <div>
                 <h2>Portfolio</h2>
-                <a href="https://rishabhkatroliya.github.io">Portfolio</a>
+                https://rishabhkatroliya.github.io
+                <a href="https://rishabhkatroliya.github.io">https://rishabhkatroliya.github.io</a>
         </div>      
 <div>
 
@@ -41,7 +42,7 @@ Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.
 
 - 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
 
-- 💬 Portfolio -  <a href="https://rishabhkatroliya.github.io">Portfolio</a>
+- 💬 Portfolio - https://rishabhkatroliya.github.io   <a href="https://rishabhkatroliya.github.io">https://rishabhkatroliya.github.io</a>
    
 
 <!-- - 📫 How to reach me **rishabh.katroliya999@gmail.com** -->
