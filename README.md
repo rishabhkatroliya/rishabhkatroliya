@@ -1,4 +1,4 @@
-<body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
+<div align="center">
     <h1 align="center">Hi 👋 I'm Rishabh Gupta</h1>
     <h2 align="center"> Aspiring full-stack web developer passionate about building web applicationse with a focus on HTML, CSS, JavaScript, and React.</h2>
       <div>
@@ -6,7 +6,7 @@
                 <a href="https://rishabhkatroliya.github.io">Portfolio</a>
         </div>    
    
-<br/>
+</div>
 
 <h4>
 <!-- <a href="https://rishabhkatroliya.github.io/" target="blank">My Portfolio</a></h5>
