@@ -1,6 +1,10 @@
 <body style="font-family: Arial, sans-serif; line-height: 1.5; margin: 0; padding: 20px;">
     <h1 align="center">Hi 👋 I'm Rishabh Gupta</h1>
     <h2 align="center"> Aspiring full-stack web developer passionate about building web applicationse with a focus on HTML, CSS, JavaScript, and React.</h2>
+      <div>
+                <h2>Portfolio</h2>
+                <a href="https://rishabhkatroliya.github.io">Portfolio</a>
+        </div>    
    
 <br/>
 
@@ -43,7 +47,6 @@ Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.
  <h2>📫How to Reach Me</h2>
 
 - Email: rishabh.katroliya999@gmail.com
-- Portfolio: https://rishabhkatroliya.github.io
 - LinkedIn: [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-a0b5a888/)
 
  </section>
