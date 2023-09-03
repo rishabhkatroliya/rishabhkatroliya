@@ -43,7 +43,7 @@ Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.
  <h2>📫How to Reach Me</h2>
 
 - Email: rishabh.katroliya999@gmail.com
-- Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.io)
+- Portfolio: https://rishabhkatroliya.github.io
 - LinkedIn: [Rishabh Gupta](https://www.linkedin.com/in/rishabh-gupta-a0b5a888/)
 
  </section>
