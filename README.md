@@ -10,7 +10,7 @@ Portfolio: [https://rishabhkatroliya.github.io](https://rishabhkatroliya.github.
 <br/> -->
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
+<p align="left"> <img class="top_image" src="https://komarev.com/ghpvc/?username=rishabhkatroliya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkatroliya" /> </p>
 
   <section>
   
